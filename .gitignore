@@ -1,0 +1,4 @@
+.now
+.next
+.env.build
+node_modules

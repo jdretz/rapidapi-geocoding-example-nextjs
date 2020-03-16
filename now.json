@@ -1,0 +1,7 @@
+{
+    "build": {
+        "env": {
+            "RAPIDAPI_KEY": "@rapidapi_key"
+        }
+    }
+}
